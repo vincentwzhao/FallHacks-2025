@@ -5,7 +5,6 @@ A revolutionary dating app that fuses conversation with civilization building, c
 ## 🏛️ Hackathon Demo
 
 ### Quick Start
-1. Open `demo.html` in your browser
 2. The demo will auto-start after 3 seconds
 3. Watch the AI chatbot simulate realistic conversations
 4. See how chat drives civilization progression
@@ -26,7 +25,7 @@ A revolutionary dating app that fuses conversation with civilization building, c
 - Automatic conversation flow management
 
 ### Civilization Progression
-- **10 Stages**: From Tribal Beginnings to Transcendent Civilization
+- **8 Stages**: From Tribal Beginnings to Transcendent Civilization
 - **Resource Management**: Food, materials, population tracking
 - **Visual Feedback**: Progress bars, animations, real-time updates
 - **Strategic Decisions**: Territory expansion, defense fortification
@@ -37,11 +36,6 @@ A revolutionary dating app that fuses conversation with civilization building, c
 - **Diplomacy**: Trade agreements and alliances
 - **Territory Management**: Interactive map with expansion mechanics
 
-### Consequence System
-- **One-sided Conversation Detection**: Penalties for unbalanced chat
-- **Inactivity Decay**: Resources decrease without communication
-- **Civilization Collapse**: Complete failure if resources hit zero
-- **Collaborative Goals**: Both partners must work together
 
 ## 🚀 Technical Implementation
 
@@ -56,8 +50,7 @@ A revolutionary dating app that fuses conversation with civilization building, c
 ```
 
 ### Key Technologies
-- **Vanilla JavaScript**: No dependencies, runs locally
-- **CSS Grid & Flexbox**: Responsive design
+- **CSS Grid**: Responsive design
 - **Web Fonts**: Lora (serif) + Inter (sans-serif)
 - **Modular Architecture**: Easy to extend and customize
 
@@ -78,12 +71,9 @@ A revolutionary dating app that fuses conversation with civilization building, c
 - **Unique Concept**: First dating app to combine civilization building with matchmaking
 - **Gamification**: Strategic gameplay encourages meaningful conversation
 - **Collaboration**: Both partners must work together to succeed
-- **Consequences**: Real penalties for poor communication
-- **Scalability**: Easy to integrate with existing dating platforms
 
 ### Technical Highlights
 - **No Backend Required**: Fully client-side for hackathon demo
-- **Modular Design**: Easy to integrate with real dating apps
 - **AI Integration**: Smart chatbot for realistic conversations
 - **Responsive**: Works on all devices
 - **Extensible**: Easy to add new features and stages
